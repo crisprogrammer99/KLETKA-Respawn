@@ -1,0 +1,1 @@
+KLETKA Respawn — unofficial host-side UE4SS mod. Stable F8 manual revive for dead co-op players using KLETKA's own GA_Respawn_Manual ability.

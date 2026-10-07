@@ -1,0 +1,7 @@
+*.log
+*.jmap
+*.dll
+*.exe
+*.pdb
+Thumbs.db
+.DS_Store
